@@ -2,6 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="../images/badge.JPG">
 <title>St. Francis Borgia High School Mukono.</title>
 <link rel="stylesheet" href="twitter-bootstrap/docs/assets/css/bootstrap.css"/>
 <link rel="stylesheet" href="twitter-bootstrap/docs/assets/css/bootstrap-responsive.css"/>

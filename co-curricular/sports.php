@@ -6,7 +6,8 @@
 <link rel="stylesheet" href="../twitter-bootstrap/docs/assets/css/bootstrap-responsive.css"/>
 <script src="../twitter-bootstrap/docs/assets/js/jquery.js"></script>
 <script src="../twitter-bootstrap/docs/assets/js/bootstrap-dropdown.js"></script>
-<title>Untitled Document</title>
+<link rel="shortcut icon" href="../images/badge.JPG">
+<title>St. Francis Borgia High School Mukono.</title>
 </head>
 
 <body>

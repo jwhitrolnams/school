@@ -2,11 +2,17 @@
 /* CSS Document */
 
 body{
-	background:#F90;
+	color:black;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	/*background:#d44413;*/
 	padding-top:0;
 	}
+	
+.pull-top{
+	}
+
 #wrapper{
-	width:1000px;
+	width:90%;
 	height:1000px;
 	margin:auto;
 	background: -moz-linear-gradient(top, #efefef 0%, #bbbbbb 100%); 
@@ -54,18 +60,30 @@ body{
 	}
 	
 .navbar1 {
-	width:auto;
+	background:rgba(0, 0, 0, 0.4);
+	background-color:transparent;
+	width:90%;
+	background: -moz-linear-gradient(top, #4f5964 0%, #5f6975 100%);
+	background: -webkit-linear-gradient(top, #4f5964 0%,#5f6975 100%);
+	box-shadow: 0px 0px 9px rgba(0,0,0,0.15);
 	height:50px;
 	padding:0;
 	margin:0;
 	position:absolute;
 	border-right:1px solid #54879d;
 	border-radius:5px;
-	}
+}
+	
+	
 .navbar1 li {
-	background: -moz-linear-gradient(top, #efefef 0%, #bbbbbb 100%); 
-	background: -webkit-linear-gradient(top, #efefef 0%,#bbbbbb 100%); 
+	/*background: linear-gradient(top, #4f5964 0%, #5f6975 40%);*/
+	background: -moz-linear-gradient(top, #4f5964 0%, #5f6975 40%);
+	background: -webkit-linear-gradient(top, #4f5964 0%,#5f6975 40%);
+	background-color:#818181;
+	
+	
 	box-shadow: 0px 0px 9px rgba(0,0,0,0.15);
+		
 	height:auto;
 	width:150px;
 	float:left;
@@ -74,7 +92,7 @@ body{
 	font:normal bold 12px/1,2em Arial, Helvetica, sans-serif;
 	padding:0;
 	margin:0;
-	background-color:#BFBFBF;	
+	
 	}
 .navbar1 a{
 	padding:18px 0;
@@ -86,11 +104,11 @@ body{
 	
 	}
 .navbar1 li:hover, a:hover{
-	background: linear-gradient(top, #4f5964 0%, #5f6975 40%);
-	background: -moz-linear-gradient(top, #4f5964 0%, #5f6975 40%);
-	background: -webkit-linear-gradient(top, #4f5964 0%,#5f6975 40%);
-	
-	background-color:#818181;
+	background: linear-gradient(top, #efefef 0%, #bbbbbb 40%);
+	/*background: linear-gradient(top, #4f5964 0%, #5f6975 40%);*/
+	background: -moz-linear-gradient(top, #efefef 0%, #bbbbbb 100%); 
+	background: -webkit-linear-gradient(top, #efefef 0%,#bbbbbb 100%); 
+	background-color:#BFBFBF;
 	color:#000;
 	}
 
@@ -104,7 +122,11 @@ body{
 	display:block;
 	}
 .navbar1 li ul li{
-	background-color:#818181;
+	background: linear-gradient(top, #efefef 0%, #bbbbbb 40%);
+	/*background: linear-gradient(top, #4f5964 0%, #5f6975 40%);*/
+	background: -moz-linear-gradient(top, #efefef 0%, #bbbbbb 40%); 
+	background: -webkit-linear-gradient(top, #efefef 0%,#bbbbbb 40%);
+	background-color:#BFBFBF;
 	color:#000;
 	}
 /*.navbar1 li ul li ul{

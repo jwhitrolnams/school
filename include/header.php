@@ -7,17 +7,29 @@
 <link rel="stylesheet" href="../twitter-bootstrap/docs/assets/css/bootstrap-responsive.css"/>
 <script src="../twitter-bootstrap/docs/assets/js/bootstrap.js"></script>
 <script src="../twitter-bootstrap/docs/assets/js/jquery.js"></script>
-<title>Untitled Document</title>
+<link rel="shortcut icon" href="../images/badge.png">
+<title>St. Francis Borgia High School Mukono.</title>
 </head>
 
 <body>
-	<div class="modal-header">
-    	<div class="logo"> 
-   			 <div class="log"><a href="http://localhost/school/index.php"> 
-                <img src="http://localhost/OIL/images/oil logo1.jpg" title="St. Francis Borgia" width="250" height="100" alt="burner" /> </a>
-			</div>
+	
+    <div class="modal-header">
+    	<div class="logo">
+        	<div class="row-fluid"> 
+            	<div class="span2">
+                     <div class="log"><a href="http://localhost/school/index.php"> 
+                        <img src="http://localhost/school/images/badge_2.png" title="St. Francis Borgia" width="120" height="80" alt="burner" /> </a>
+                      </div>
+                 </div>
+                      <div class="span10" style="margin-top:40px; margin-left:-30px">
+                        <font style="font-size:24px"><b style="color:#000" >ST. FRANCIS BORGIA <br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;HIGH SCHOOL MUKONO</b></font><br/><br/>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                      <font style="font-size:18px"><b style="color:#e1270e; text-decoration:blink"><i> &ldquo; Called to shine &rdquo;</i></b></font>
+                      </div>
+           </div>
 		</div>
-   </div>
+    </div>
+  
 </body>
 </html>
 
